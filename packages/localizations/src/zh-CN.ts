@@ -339,6 +339,12 @@ export const zhCN: LocalizationResource = {
         destructiveActionSubtitle: '从您的账户中移除这个 Web3 钱包',
         destructiveAction: '移除钱包',
       },
+      dangerSection: {
+        title: '危险',
+        deleteAccountButton: '删除账户',
+        deleteAccountTitle: '删除账户',
+        deleteAccountDescription: '删除您的帐户及其所有相关数据',
+      },
     },
     profilePage: {
       title: '更新个人资料',
